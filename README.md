@@ -62,7 +62,7 @@
 - [GitHub Profile](https://github.com/Radio-active-Boys)
 
 ## 📫 Connect with Me
-- [LinkedIn](#) <!-- Update with your LinkedIn profile link -->
+- [LinkedIn](www.linkedin.com/in/vishal-kashyap-5b8947256) <!-- Update with your LinkedIn profile link -->
 
 ## ⚡ Fun Fact
 Certainly! Based on the information provided in the resume, here's a fun fact:
