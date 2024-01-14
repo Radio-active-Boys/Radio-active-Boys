@@ -28,7 +28,7 @@
 - Managed 3D printers and CNC laser machines.
 
 ### IoT & Micro-controller/Processors Internship
-- **IIT Jammu, Chandigarh**
+- **IIT Jammu**
 - Dec 2022 - Jan 2023 (2 months)
 - Key Skills: IoT, Sensor Integration, Actuator Control, Microcontroller Programming.
 
@@ -65,4 +65,7 @@
 - [LinkedIn](#) <!-- Update with your LinkedIn profile link -->
 
 ## ⚡ Fun Fact
-- ...
+Certainly! Based on the information provided in the resume, here's a fun fact:
+
+**⚡ Fun Fact:**
+Despite being proficient in complex technologies like IoT, Microcontrollers, and Full Stack Development, I also have a passion for 3D printing and laser cutting. Balancing the intricacies of programming and the precision of 3D design, I bring a unique blend of technical expertise and creativity to the table. From writing code that powers innovations to crafting tangible prototypes using 3D printers, I find joy in bridging the virtual and physical worlds.
