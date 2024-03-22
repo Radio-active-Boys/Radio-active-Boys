@@ -2,10 +2,6 @@
 
 ## 🧑‍🎓 Education
 - **B.Tech** at Indian Institute of Technology Jammu
-  - CGPA: 9.50/10
-- **Senior Secondary (XII), Science** at Maharana Pratap Public School, Kurukshetra (CBSE board)
-  - Year of completion: 2022
-  - Percentage: 98.00%
 
 ## 💼 Work Experience
 ### Full Stack Website Internship
