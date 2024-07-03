@@ -10,18 +10,32 @@
 
 ---
 
-### 🌟 About Me
+### 📊 GitHub Stats
 
-I'm an aspiring **Software Engineering Intern** with a strong foundation in computer science, currently pursuing a Bachelor’s degree in Civil Engineering at the Indian Institute of Technology Jammu. I am proficient in Python, JavaScript, C, C++, and Java, with experience in web development, IoT, and embedded systems. Skilled in Unix/Linux environments, data structures, algorithms, and software design, I am actively involved in projects related to distributed systems, machine learning, and computer vision, demonstrating problem-solving and innovation abilities.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Vishal's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Vishal's GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Vishal's Top Languages">
+</p>
 
 ---
 
-### 🎓 Education
+### 💻 Technical Skills and Interests
 
-**Bachelor of Technology in Civil Engineering**  
-*Indian Institute of Technology Jammu*  
-*Expected Graduation: 2026*  
-**Current CGPA:** 8.51/10
+- **Programming Languages:** ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- **Web Development:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+- **Tools & Frameworks:** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+- **Software Packages:** ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?logo=mathworks&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![KiCad](https://img.shields.io/badge/-KiCad-007ACC?logo=kicad&logoColor=white)
+- **Operating Systems:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+- **Machinery:** 3D Printer, Laser Cutter, CNC, Milling, Lathe
+- **Interests:** Software Development, Computer Graphics, IoT, Distributed Systems, Machine Learning
+- 
 
 ---
 
@@ -47,7 +61,6 @@ I'm an aspiring **Software Engineering Intern** with a strong foundation in comp
 - 🌐 Demonstrated real-world applications of IoT and microcontrollers, enhancing participants’ understanding.
 - 🏢 Facilitated tours of Innovation Entrepreneurship Development Centre (IEDC) lab to showcase technological applications.
 
----
 
 ### 🚀 Major Projects
 
@@ -73,18 +86,6 @@ I'm an aspiring **Software Engineering Intern** with a strong foundation in comp
 
 ---
 
-### 💻 Technical Skills and Interests
-
-- **Programming Languages:** ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- **Web Development:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-- **Tools & Frameworks:** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-- **Software Packages:** ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?logo=mathworks&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![KiCad](https://img.shields.io/badge/-KiCad-007ACC?logo=kicad&logoColor=white)
-- **Operating Systems:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-- **Machinery:** 3D Printer, Laser Cutter, CNC, Milling, Lathe
-- **Interests:** Software Development, Computer Graphics, IoT, Distributed Systems, Machine Learning
-
----
-
 ### 🌟 Other Projects
 
 - 🤖 Developed machine learning model for house price prediction using TensorFlow and Python.
@@ -93,6 +94,21 @@ I'm an aspiring **Software Engineering Intern** with a strong foundation in comp
 - 🌱 Implemented smart watering system with Arduino and moisture sensors for automated plant care.
 - 🏡 Programmed home automation system using Raspberry Pi for remote appliance control.
 - 🚁 Collaborated on building autonomous drone for aerial surveillance using OpenCV.
+
+---
+
+### 🌟 About Me
+
+I'm an aspiring **Software Engineering Intern** with a strong foundation in computer science, currently pursuing a Bachelor’s degree in Civil Engineering at the Indian Institute of Technology Jammu. I am proficient in Python, JavaScript, C, C++, and Java, with experience in web development, IoT, and embedded systems. Skilled in Unix/Linux environments, data structures, algorithms, and software design, I am actively involved in projects related to distributed systems, machine learning, and computer vision, demonstrating problem-solving and innovation abilities.
+
+---
+
+### 🎓 Education
+
+**Bachelor of Technology in Civil Engineering**  
+*Indian Institute of Technology Jammu*  
+*Expected Graduation: 2026*  
+**Current CGPA:** 8.51/10
 
 ---
 
@@ -123,18 +139,4 @@ I'm an aspiring **Software Engineering Intern** with a strong foundation in comp
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="Coding GIF">
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Vishal's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Vishal's GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Vishal's Top Languages">
-</p>
