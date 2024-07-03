@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Civil%20Engineering-brightgreen" alt="Degree Badge">
   <img src="https://img.shields.io/badge/IIT-Jammu-blue" alt="Institute Badge">
-  <img src="https://img.shields.io/github/followers/your-github-username?label=Followers" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/Radio-active-Boys?label=Followers" alt="GitHub Followers">
 </p>
 
 ---
@@ -61,6 +61,7 @@
 - 🌐 Demonstrated real-world applications of IoT and microcontrollers, enhancing participants’ understanding.
 - 🏢 Facilitated tours of Innovation Entrepreneurship Development Centre (IEDC) lab to showcase technological applications.
 
+---
 
 ### 🚀 Major Projects
 
