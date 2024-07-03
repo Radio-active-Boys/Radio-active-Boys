@@ -1,6 +1,8 @@
 # Hi there, I'm Vishal Kashyap! 👋
 
-![Profile Banner](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150" alt="GitHub Logo">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Civil%20Engineering-brightgreen" alt="Degree Badge">
@@ -135,10 +137,6 @@ I'm an aspiring **Software Engineering Intern** with a strong foundation in comp
   <a href="https://github.com/Radio-active-Boys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.youtube.com/@VishalKashyap-iitJammu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.instagram.com/_vishal_biramin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150" alt="GitHub Logo">
 </p>
 
 <p align="center">
