@@ -93,7 +93,7 @@ I'm an aspiring **Software Engineering Intern** with a strong foundation in comp
 **Bachelor of Technology in Civil Engineering**  
 *Indian Institute of Technology Jammu*  
 *Expected Graduation: 2026*  
-**Current CGPA:** 8.51/10
+**Current CGPA:** 8.56/10
 
 ---
 
