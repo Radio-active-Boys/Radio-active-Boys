@@ -28,6 +28,27 @@
 
 ---
 
+### 🏆 Competitive Programming Profiles
+
+<p align="center">
+  <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/yourusername/](https://leetcode.com/u/RdioActive/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge">
+  </a>
+
+  <!-- GeeksforGeeks Badge -->
+  <a href="https://auth.geeksforgeeks.org/user/yourusername/](https://www.geeksforgeeks.org/user/2022uc4lkk/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeks-for-geeks&logoColor=white" alt="GeeksforGeeks Badge">
+  </a>
+
+  <!-- Coding Ninjas Badge -->
+  <a href="https://www.codingninjas.com/codestudio/profile/yourusername">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-00B2FF?style=flat&logo=coding-ninjas&logoColor=white" alt="Coding Ninjas Badge">
+  </a>
+</p>
+
+---
+
 ### 💻 Technical Skills and Interests
 
 - **Programming Languages:** ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
