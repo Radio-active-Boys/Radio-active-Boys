@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radio-active-Boys&layout=compact&theme=radical" alt="Vishal's Top Languages">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Radio-active-Boys&theme=dark&short_numbers=true" alt="Vishal's Top Languages">
 </p>
 
 ---
