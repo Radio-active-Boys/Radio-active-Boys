@@ -50,8 +50,7 @@
 - **Tools & Frameworks:** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 - **Software Packages:** ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?logo=mathworks&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![KiCad](https://img.shields.io/badge/-KiCad-007ACC?logo=kicad&logoColor=white)
 - **Operating Systems:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-- **Machinery:** 3D Printer, Laser Cutter, CNC, Milling, Lathe
-- **Interests:** Software Development, Computer Graphics, IoT, Distributed Systems, Machine Learning
+- **Interests:** Software Development, Backend Development, IoT, Operating System, Web3, Full Stack
 
 ---
 
