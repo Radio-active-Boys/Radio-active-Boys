@@ -130,9 +130,15 @@ I enjoy solving engineering problems end-to-end — from architecture design to 
 </p>
 </p>
 
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/LqajRC2pU0Je8/giphy.gif" width="180" alt="Coding GIF">
+</p> -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="180" alt="Coding GIF">
+  <img src="https://media0.giphy.com/media/0gRBuU7FES9UaRlQ0Z/giphy.gif" width="180" alt="Coding GIF">
 </p>
+
+
 
 ---
 
