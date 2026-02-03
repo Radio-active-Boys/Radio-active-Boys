@@ -5,11 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Civil%20Engineering-brightgreen" alt="Degree Badge">
-  <img src="https://img.shields.io/badge/IIT-Jammu-blue" alt="Institute Badge">
-  <img src="https://img.shields.io/github/followers/Radio-active-Boys?label=Followers&style=flat&color=0A66C2" alt="GitHub Followers">
-  <!-- <img src="https://komarev.com/ghpvc/?username=Radio-active-Boys&label=Profile%20Views&color=orange&style=flat" alt="Profile Views"> -->
+  <img src="https://img.shields.io/badge/B.Tech-Civil%20Engineering-brightgreen">
+  <img src="https://img.shields.io/badge/IIT-Jammu-blue">
+  <img src="https://img.shields.io/github/followers/Radio-active-Boys?label=Followers&style=flat&color=0A66C2">
+  <a href="https://vishal.orbise.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-vishal.orbise.in-0A66C2?style=flat&logo=google-chrome&logoColor=white">
+  </a>
 </p>
+
 
 ---
 
@@ -127,6 +130,10 @@ I enjoy solving engineering problems end-to-end — from architecture design to 
   <a href="https://github.com/Radio-active-Boys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.youtube.com/@VishalKashyap-iitJammu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.instagram.com/_vishal_biramin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://vishal.orbise.in/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-24292e?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
 </p>
 </p>
 
