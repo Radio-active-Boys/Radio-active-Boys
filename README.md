@@ -99,7 +99,7 @@
 <h2 align="center">Current Focus</h2>
 
 <p align="center">
-Distributed Systems • System Design • High Performance Computing • Go
+• System Design • Backend Engineering • Go
 </p>
 
 ---
